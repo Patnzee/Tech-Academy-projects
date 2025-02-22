@@ -1,0 +1,13 @@
+/* CSS_Lists.css */
+
+/* Styling for Ordered List (ol) */
+ol {
+    list-style-type: upper-roman;  /* Changes the numbering style to Roman numerals */
+    padding-left: 20px;            /* Adds padding to the left of the list */
+}
+
+/* Styling for Unordered List (ul) */
+ul {
+    list-style-type: square;       /* Changes the bullet style to square */
+    padding-left: 20px;            /* Adds padding to the left of the list */
+}

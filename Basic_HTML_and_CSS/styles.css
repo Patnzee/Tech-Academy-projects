@@ -1,0 +1,13 @@
+/* Styling for the "font_1" class */
+.font_1 {
+    font-size: 18px;
+    color: green;
+    text-align: left;
+}
+
+/* Styling for the "font_2" class */
+.font_2 {
+    font-size: 22px;
+    color: blue;
+    text-align: center;
+}

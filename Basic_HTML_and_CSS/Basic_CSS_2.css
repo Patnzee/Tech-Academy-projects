@@ -1,0 +1,20 @@
+/* Basic_CSS_2.css */
+
+/* Style for the Ordered List (ol) */
+ol {
+    list-style-type: decimal; /* Default, numbered list */
+    color: #333333;  /* Dark gray text */
+}
+
+/* Style for the Unordered List (ul) */
+ul {
+    list-style-type: square; /* Square bullets for unordered list */
+    color: #4CAF50; /* Green text */
+}
+
+/* Define the "myParagraphStyle" class with a shadow effect */
+.myParagraphStyle {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Adds shadow to the text */
+    color: #333333; /* Sets text color to dark gray */
+    font-size: 18px; /* Sets the font size */
+}

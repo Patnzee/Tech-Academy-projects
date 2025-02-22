@@ -1,0 +1,34 @@
+/* CSS_Table.css */
+
+/* Styling the table */
+table {
+    width: 80%;             /* Set the width of the table */
+    margin: 20px auto;      /* Center the table horizontally */
+    border-collapse: collapse; /* Remove space between table cells */
+    background-color: #f4f4f9; /* Set a light background color */
+}
+
+/* Styling table headers */
+th {
+    background-color: #4CAF50; /* Green background for header */
+    color: white;              /* White text color for header */
+    padding: 10px;             /* Add padding to header cells */
+    text-align: left;          /* Align text to the left in header */
+}
+
+/* Styling table data cells */
+td {
+    border: 1px solid #ddd;   /* Border for table data cells */
+    padding: 8px;              /* Add padding to data cells */
+    text-align: left;          /* Align text to the left in data cells */
+}
+
+/* Hover effect for table rows */
+tr:hover {
+    background-color: #f1f1f1; /* Light gray background on hover */
+}
+
+/* Styling the table borders */
+table, th, td {
+    border: 1px solid #ddd;   /* Set border for table, header, and data cells */
+}
